@@ -1,0 +1,2 @@
+file add cmd -touch 'file name'
+file remove cmd= rm 'file name'
