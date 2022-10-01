@@ -1,2 +1,4 @@
 file add cmd -touch 'file name'
 file remove cmd= rm 'file name'
+add all files to git- git add .
+add selected files to git- git *.html
