@@ -1,4 +1,6 @@
 file add cmd -touch 'file name'
 file remove cmd= rm 'file name'
 add all files to git- git add .
-add selected files to git- git *.html
+add selected files to git- git *.html'
+create a new branch- git branch 'branch name'
+switch to brach-git checkout 'branch name'
